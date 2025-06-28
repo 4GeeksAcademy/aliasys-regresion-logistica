@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6b43836 (Optimizado)
 age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed
 27,services,single,high.school,no,yes,no,telephone,jun,wed,179,1,999,0,nonexistent,1.4,94.465,-41.8,4.864,5228.1
 27,blue-collar,single,basic.4y,no,no,no,cellular,jul,thu,508,1,999,0,nonexistent,1.4,93.918,-42.7,4.968,5228.1
@@ -6098,6 +6101,7 @@ age,job,marital,education,default,housing,loan,contact,month,day_of_week,duratio
 40,blue-collar,divorced,basic.4y,no,yes,no,cellular,nov,fri,58,1,999,1,failure,-0.1,93.2,-42.0,4.021,5195.8
 41,technician,married,professional.course,no,no,no,cellular,aug,wed,76,1,999,0,nonexistent,1.4,93.444,-36.1,4.965,5228.1
 42,technician,married,university.degree,no,no,no,telephone,jun,fri,4,20,999,0,nonexistent,1.4,94.465,-41.8,4.959,5228.1
+<<<<<<< HEAD
 =======
 duration,emp.var.rate,cons.price.idx,euribor3m,default_no,month_aug,month_jun,month_mar,month_may,poutcome_nonexistent
 0.9610722041229891,0.5823489076751044,0.7340493829196848,0.6428886128057056,1.0,0.0,0.0,0.0,1.0,1.0
@@ -10907,3 +10911,5 @@ duration,emp.var.rate,cons.price.idx,euribor3m,default_no,month_aug,month_jun,mo
 -0.6603044167714693,-1.3391543276068556,-0.9211330055873745,-1.434295462926905,1.0,0.0,0.0,0.0,0.0,1.0
 -0.5023048388652809,-0.8753432018491412,1.8272982510630875,-1.685724836689381,1.0,0.0,0.0,0.0,0.0,1.0
 >>>>>>> a240939 (Mejoramos la optimizacion del modelo)
+=======
+>>>>>>> 6b43836 (Optimizado)
